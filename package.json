@@ -1,0 +1,23 @@
+{
+  "name": "watson-assistant",
+  "version": "1.0.0",
+  "description": "HieroBC's TCC",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HieroBC/watson-assistant.git"
+  },
+  "author": "HieroBC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HieroBC/watson-assistant/issues"
+  },
+  "homepage": "https://github.com/HieroBC/watson-assistant#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "watson-developer-cloud": "^3.0.7"
+  }
+}
